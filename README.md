@@ -3,7 +3,7 @@
 ## by Marco Mechan Llontop, John Mullet, and Ashley Shade
 
 
-<i>This work is submitted as a preprint.</i>
+<i>This work is available as a [preprint](https://doi.org/10.1101/2022.07.18.500406).</i>
 
 
 ### Data
@@ -11,7 +11,7 @@ The raw data (16S, ITS amplicons and full-length 16S sequences) for this study a
 
 
 ### To cite this work or code
-Mechan Llontop M, J Mullet, and A Shade.  2022. Phyllosphere exudates select for distinct microbiome members in sorghum epicuticular wax and aerial root mucilage.  
+Mechan Llontop M, J Mullet, and A Shade.  2022. Phyllosphere exudates select for distinct microbiome members in sorghum epicuticular wax and aerial root mucilage. bioRXiv. https://doi.org/10.1101/2022.07.18.500406
 
 
 ### Abstract
